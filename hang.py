@@ -1,4 +1,4 @@
-''' Hang.py - okd game in a new style '''
+''' Hang.py - old game in a new style '''
 
 import sys
 import linecache
